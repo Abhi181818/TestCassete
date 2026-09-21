@@ -25,3 +25,17 @@
   background-image: radial-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 0);
   background-size: 3px 3px;
 }
+
+/* 3D Perspective and Extrusion styling */
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.perspective-1400 {
+  perspective: 1400px;
+}
+
