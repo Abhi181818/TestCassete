@@ -1,0 +1,7 @@
+{
+  "name": "Interactive Cassette Tape",
+  "description": "A photorealistic, interactive physical cassette tape with mechanical reel spinning animations and dual-path journey navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
